@@ -1,0 +1,7 @@
+LRI File: simple_city2.lri
+VehicleBrand: Audi
+VehicleWidth: 6.17
+VehicleLength: 16.52
+VehicleColor: 5
+Road Number: 2
+Road Postion: 7401.929688 : 3517.214355
